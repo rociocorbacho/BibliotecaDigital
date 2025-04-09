@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejercicioJava/ejercicioJava.iml" filepath="$PROJECT_DIR$/ejercicioJava/ejercicioJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicioSocket/ejercicioSocket.iml" filepath="$PROJECT_DIR$/ejercicioSocket/ejercicioSocket.iml" />
+    </modules>
+  </component>
+</project>
